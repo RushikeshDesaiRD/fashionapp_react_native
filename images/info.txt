@@ -1,0 +1,72 @@
+[
+{
+   id:1,  
+   name:"Full Sleeve Solid Men Jacket",
+   price: 5490,
+   des:"Loose-fitting sweater featuring a high neck with zip detail long sleeves in-seam side pockets and ribbed trims",
+   banner:,
+   otherImg:{
+                  img1:,
+                  img2:,
+                  img3:,
+            },
+    rating:4.5       
+},
+{
+   id:2,  
+   name:"Full Sleeve Graphic Print Men Jacket",
+   price: 1690,
+   des:"Loose-fitting sweater featuring a high neck with zip detail long sleeves in-seam side pockets and ribbed trims",
+   banner:,
+   otherImg:{
+                  img1:,
+                  img2:,
+                  img3:,
+            },
+    rating:4        
+}
+,
+{
+   id:3,  
+   name:"Embroidered Semi Stitched Lehenga Choli ",
+   price: 1690,
+   des:"Loose-fitting sweater featuring a high neck with zip detail long sleeves in-seam side pockets and ribbed trims",
+   banner:,
+   otherImg:{
+                  img1:,
+                  img2:,
+                  img3:,
+            },
+    rating:4.7     
+}
+
+,
+{
+   id:4,  
+   name:"Women Printed Viscose Straight Kurta ",
+   price: 890,
+   des:"Loose-fitting sweater featuring a high neck with zip detail long sleeves in-seam side pockets and ribbed trims",
+   banner:,
+   otherImg:{
+                  img1:,
+                  img2:,
+                  img3:,
+            },
+    rating:4.2      
+}
+,
+{
+   id:5,  
+   name:"Women Kurta and Dupatta Set Cotton Blend",
+   price: 890,
+   des:"Loose-fitting sweater featuring a high neck with zip detail long sleeves in-seam side pockets and ribbed trims",
+   banner:,
+   otherImg:{
+                  img1:,
+                  img2:,
+                  img3:,
+            },
+    rating:4.9 
+}
+
+]
